@@ -1,0 +1,71 @@
+@import url("https://fonts.googleapis.com/css2?family=Lexend:wght@100..900&display=swap");
+
+/* Common Style */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+img {
+  width: 100%;
+  height: auto;
+}
+body {
+  overflow: hidden !important;
+}
+a:focus {
+  outline: none;
+  box-shadow: none;
+}
+input:focus {
+  outline: none;
+  border: none;
+  box-shadow: none;
+}
+input:focus-visible {
+  outline: none;
+  border: none;
+  box-shadow: none;
+}
+button:focus,
+:focus-visible {
+  outline: none;
+  border: none;
+}
+/* Root*/
+:root {
+
+}
+
+/* Typography */
+
+/* Header */
+
+/* Cane Image and Wrapper Image */
+
+/*Fruits Images */
+
+/* After */
+
+/*Section  */
+
+/* Add this to your CSS */
+
+/* Buttons */
+
+/*.......... Responsive.............. */
+@media screen and (max-width: 1550px) {
+
+}
+@media screen and (max-width: 1199px) {
+
+}
+@media screen and (max-width: 991px) {
+
+}
+@media screen and (max-width: 767px) {
+  
+}
+@media screen and (max-width: 575px) {
+
+}
